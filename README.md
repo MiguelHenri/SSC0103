@@ -4,4 +4,4 @@ Object-Oriented Programming
 
 # 📖 Summary
 
-Projects developed during OOP subject.
+Projects developed during OOP subject using Java and Python.
